@@ -1,8 +1,8 @@
-.. _python_for_mac:
+.. _Vagrant:
 
-*************************
-Setting up Python on OS X
-*************************
+*********************************
+Setting up Python on a Vagrant/VM
+*********************************
 
 ==================
 Getting The Tools

@@ -1,4 +1,4 @@
-Introduction to The Environment
+Introduction to the Environment
 ===============================
 
 There are three basic elements to your environment when working with Python:
@@ -20,7 +20,7 @@ Having some facility on the command line is important
 We won't cover this much in class, so if you are not comfortable,
 please bone up at home.
 
-I suggest running through the **cli** tutorial at "learn code the hard way":
+We suggest running through the **cli** tutorial at "learn code the hard way":
 
 http://cli.learncodethehardway.org/book/
 
@@ -166,7 +166,7 @@ In addition, great features to add include:
 
 Have an editor that does all this? Feel free to use it.
 
-If not, I suggest ``SublimeText``:
+If not, we recommend ``SublimeText``:
 
 http://www.sublimetext.com/
 

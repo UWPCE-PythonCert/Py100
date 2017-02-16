@@ -89,7 +89,7 @@ Statements:
 
 .. nextslide:: The Print Function
 
-It's kind of obvious, but handy when playing with code:
+It is somewhat obvious, but handy when playing with code:
 
 .. code-block:: ipython
 
@@ -314,16 +314,16 @@ Variables?
 
 .. rst-class:: build
 
-* In most languages, what I'm calling symbols, or names, are called "variables".
+* In most languages, what Python calls symbols or names are called "variables".
 
-* In fact, I'll probably call them variables in this class.
+* In fact, we will probably call them variables in this class.
 
 * That's because they are used, for the most part, for the same purposes.
 
 * But often a "variable" is defined as something like:
   "a place in memory that can store values"
 
-* That is **NOT** what a name in python is!
+* That is **NOT** the same thing as a symbol or name in Python!
 
 * A name can be bound to a value -- but that has nothing to do with a
   location in memory.

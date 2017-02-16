@@ -24,28 +24,6 @@ Modules
    modules/PythonClasses
    modules/SubclassingAndInheritance
 
-Labs
-----
-
-.. toctree::
-   :maxdepth: 1
-
-   labs/GettingSetup
-
-Homework
---------
-
-.. toctree::
-   :maxdepth: 1
-
-   homework/session01
-   homework/session02
-   homework/session03
-   homework/session04
-   homework/session05
-   homework/session06
-   homework/session07
-
 Exercises
 ---------
 
@@ -72,6 +50,20 @@ Exercises
    exercises/sparse_array.rst
    exercises/string_formatting.rst
    exercises/trapezoid.rst
+
+Homework
+--------
+
+.. toctree::
+   :maxdepth: 1
+
+   homework/session01
+   homework/session02
+   homework/session03
+   homework/session04
+   homework/session05
+   homework/session06
+   homework/session07
 
 Supplemental Materials
 ----------------------

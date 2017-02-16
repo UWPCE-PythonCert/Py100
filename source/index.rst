@@ -75,8 +75,9 @@ Supplemental Materials
    supplemental/python_for_linux
    supplemental/python_for_mac
    supplemental/python_for_windows
-   `Python via Vagrant
-   <https://github.com/rriehle/uwpce-vagrant>`_
+   `Python via Vagrant`_
+
+.. `Python via Vagrant: https://github.com/rriehle/uwpce-vagrant
 
 Indices and tables
 ------------------

@@ -20,6 +20,9 @@ Modules
    modules/Testing
    modules/AdvancedArgumentPassing
    modules/DictionaryAsSwitch
+   modules/ObjectOrientationOverview
+   modules/PythonClasses
+   modules/SubclassingAndInheritance
 
 Labs
 ----
@@ -41,6 +44,7 @@ Homework
    homework/session04
    homework/session05
    homework/session06
+   homework/session07
 
 Exercises
 ---------
@@ -76,6 +80,9 @@ Supplemental Materials
    :maxdepth: 1
 
    supplemental/HowToRunAPythonFile
+   supplemental/python_for_linux
+   supplemental/python_for_mac
+   supplemental/python_for_windows
 
 Indices and tables
 ------------------

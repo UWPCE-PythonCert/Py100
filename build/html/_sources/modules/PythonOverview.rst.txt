@@ -1,6 +1,5 @@
 Python Overview
-================
-
+===============
 
 What is Python?
 ---------------
@@ -15,7 +14,6 @@ What is Python?
 .. rst-class:: center large
 
 But what does that mean?
-
 
 Python Features
 ---------------
@@ -32,7 +30,6 @@ Python Features
   * Less code means fewer bugs
 
 * **Interpreted** -- no separate compile, build steps - programming process is simpler
-
 
 What's a Dynamic language
 -------------------------
@@ -81,7 +78,6 @@ Duck Typing
 .. rst-class:: center large
 
 If an object behaves as expected at run-time, it's the right type.
-
 
 Python Versions
 ---------------

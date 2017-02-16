@@ -6,7 +6,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>How to run a python file &#8212; Py100 3.0 documentation</title>
+    <title>Slicing Lab &#8212; Py100 3.0 documentation</title>
     
     <link rel="stylesheet" href="../_static/alabaster.css" type="text/css" />
     <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
@@ -26,8 +26,8 @@
     <script type="text/javascript" src="../_static/doctools.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Setting up Python For Linux" href="python_for_linux.html" />
-    <link rel="prev" title="Trapezoidal Rule" href="../exercises/trapezoid.html" />
+    <link rel="next" title="Sparse Array Exercise" href="sparse_array.html" />
+    <link rel="prev" title="ROT13" href="rot13.html" />
    
   <link rel="stylesheet" href="../_static/custom.css" type="text/css" />
   
@@ -43,23 +43,24 @@
         <div class="bodywrapper">
           <div class="body" role="main">
             
-  <div class="section" id="how-to-run-a-python-file">
-<h1>How to run a python file<a class="headerlink" href="#how-to-run-a-python-file" title="Permalink to this headline">¶</a></h1>
-<p>A file with python code in it is a &#8216;module&#8217; or &#8216;script&#8217;</p>
-<p>(more on the distinction later on...)</p>
-<p>It should be named with the <code class="docutils literal"><span class="pre">.py</span></code> extension: <code class="docutils literal"><span class="pre">some_name.py</span></code></p>
-<p>To run it, you have a couple options:</p>
-<ol class="arabic simple">
-<li>call python on the command line, and pass in your module name</li>
-</ol>
-<div class="highlight-bash"><div class="highlight"><pre><span></span>$ python the_name_of_the_script.py
-</pre></div>
+  <div class="section" id="slicing-lab">
+<span id="exercise-slicing"></span><h1>Slicing Lab<a class="headerlink" href="#slicing-lab" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="goal">
+<h2>Goal<a class="headerlink" href="#goal" title="Permalink to this headline">¶</a></h2>
+<p>Get the basics of sequence slicing down</p>
+<div class="section" id="tasks">
+<h3>Tasks<a class="headerlink" href="#tasks" title="Permalink to this headline">¶</a></h3>
+<p>Write some functions that:</p>
+<ul class="simple">
+<li>return a sequence with the first and last items exchanged.</li>
+<li>return a sequence with every other item removed</li>
+<li>return a sequence with the first and last 4 items removed, and every other item in between</li>
+<li>return a sequence reversed (just with slicing)</li>
+<li>return a sequence with the middle third, then last third, then the first third in the new order</li>
+</ul>
+<p>NOTE:
+these should work with ANY sequence &#8211; but you can use strings to test, if you like.</p>
 </div>
-<ol class="arabic simple" start="2">
-<li>run <code class="docutils literal"><span class="pre">iPython</span></code>, and run it from within iPython with the <code class="docutils literal"><span class="pre">run</span></code> command</li>
-</ol>
-<div class="highlight-ipython"><div class="highlight"><pre><span></span><span class="gp">In [1]: </span><span class="n">run</span> <span class="n">the_file</span><span class="o">.</span><span class="n">py</span>
-</pre></div>
 </div>
 </div>
 
@@ -68,19 +69,30 @@
         </div>
       </div>
       <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
-        <div class="sphinxsidebarwrapper"><div class="relations">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="../index.html">Table Of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Slicing Lab</a><ul>
+<li><a class="reference internal" href="#goal">Goal</a><ul>
+<li><a class="reference internal" href="#tasks">Tasks</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<div class="relations">
 <h3>Related Topics</h3>
 <ul>
   <li><a href="../index.html">Documentation overview</a><ul>
-      <li>Previous: <a href="../exercises/trapezoid.html" title="previous chapter">Trapezoidal Rule</a></li>
-      <li>Next: <a href="python_for_linux.html" title="next chapter">Setting up Python For Linux</a></li>
+      <li>Previous: <a href="rot13.html" title="previous chapter">ROT13</a></li>
+      <li>Next: <a href="sparse_array.html" title="next chapter">Sparse Array Exercise</a></li>
   </ul></li>
 </ul>
 </div>
   <div role="note" aria-label="source link">
     <h3>This Page</h3>
     <ul class="this-page-menu">
-      <li><a href="../_sources/supplemental/HowToRunAPythonFile.rst.txt"
+      <li><a href="../_sources/exercises/slicing.rst.txt"
             rel="nofollow">Show Source</a></li>
     </ul>
    </div>
@@ -106,7 +118,7 @@
       &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.9</a>
       
       |
-      <a href="../_sources/supplemental/HowToRunAPythonFile.rst.txt"
+      <a href="../_sources/exercises/slicing.rst.txt"
           rel="nofollow">Page source</a>
     </div>
 

@@ -6,57 +6,85 @@
 Welcome to Py100
 ================
 
-    Modules
-    -------
+Modules
+-------
 
-	.. toctree::
-	   	:maxdepth: 1
-	   	:caption: Modules:
+.. toctree::
+   :maxdepth: 1
 
-		modules/PythonOverview
-		modules/EnvironmentOverview
-		modules/IPythonIntroduction
-		modules/BasicPythonSyntax
-		modules/Py2-3Differences
+   modules/PythonOverview
+   modules/EnvironmentOverview
+   modules/IPythonIntroduction
+   modules/BasicPythonSyntax
+   modules/Py2vsPy3
+   modules/Testing
+   modules/AdvancedArgumentPassing
+   modules/DictionaryAsSwitch
+   modules/ObjectOrientationOverview
+   modules/PythonClasses
+   modules/SubclassingAndInheritance
 
-	Labs
-	----
+Labs
+----
 
-	.. toctree::
-	   	:maxdepth: 1
-	   	:caption: Labs:
+.. toctree::
+   :maxdepth: 1
 
-	   	labs/GettingSetup
+   labs/GettingSetup
 
-   	Homework
-   	--------
+Homework
+--------
 
-	.. toctree::
-	   	:maxdepth: 1
-	   	:caption: Homework:
+.. toctree::
+   :maxdepth: 1
 
-   		homework/session01
-   		homework/session02
-   		homework/session03
-   		homework/session04
-   		homework/session05
-   		homework/session06
-   		homework/session07
-   		homework/session08
-   		homework/session09
-   		homework/session10
+   homework/session01
+   homework/session02
+   homework/session03
+   homework/session04
+   homework/session05
+   homework/session06
 
-   	Supplemental Materials
-   	----------------------
+Exercises
+---------
 
-	.. toctree::
-	   	:maxdepth: 1
-	   	:caption: Supplemental Materials:
+.. toctree::
+   :maxdepth: 1
 
-		supplemental/HowToRunAPythonFile
+   exercises/args_kwargs_lab.rst
+   exercises/circle_class.rst
+   exercises/comprehensions_lab.rst
+   exercises/dict_lab.rst
+   exercises/exceptions_lab.rst
+   exercises/fib_and_lucas.rst
+   exercises/file_lab.rst
+   exercises/fizz_buzz.rst
+   exercises/grid_printer.rst
+   exercises/html_renderer.rst
+   exercises/kata_fourteen.rst
+   exercises/lambda_magic.rst
+   exercises/list_lab.rst
+   exercises/mailroom.rst
+   exercises/mailroom-oo.rst
+   exercises/rot13.rst
+   exercises/slicing.rst
+   exercises/sparse_array.rst
+   exercises/string_formatting.rst
+   exercises/trapezoid.rst
+
+Supplemental Materials
+----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   supplemental/HowToRunAPythonFile
+   supplemental/python_for_linux
+   supplemental/python_for_mac
+   supplemental/python_for_windows
 
 Indices and tables
-==================
+------------------
 
 * :ref:`genindex`
 * :ref:`modindex`

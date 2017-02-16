@@ -1,7 +1,7 @@
 .. _python_for_mac:
 
 *************************
-Setting up Python for Mac
+Setting up Python on OS X
 *************************
 
 ==================

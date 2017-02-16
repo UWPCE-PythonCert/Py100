@@ -1,8 +1,8 @@
 .. _python_for_windows:
 
-*****************************
-Setting up Python for Windows
-*****************************
+****************************
+Setting up Python on Windows
+****************************
 
 ==================
 Getting The Tools

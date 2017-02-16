@@ -1,7 +1,7 @@
 .. _python_for_windows:
 
 *****************************
-Setting up Windows for Python
+Setting up Python for Windows
 *****************************
 
 ==================

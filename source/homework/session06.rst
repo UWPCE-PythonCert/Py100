@@ -1,9 +1,9 @@
-Homework
-========
+Homework Session06
+==================
 
 .. rst-class:: left
 
-  Finish up the Labs
+  Finish up the exercises
 
   Write a complete set of unit tests for your mailroom program.
 

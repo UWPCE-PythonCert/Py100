@@ -1,5 +1,6 @@
-Homework
-========
+Homework Session02
+==================
+
 Review and/or finish reading these class notes.
 
 Finish any labs from class....

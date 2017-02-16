@@ -4,6 +4,8 @@
 # designed to be run from master
 
 git checkout gh-pages
+rm -rf build/*
+git merge master
 make html
 git add *
 git commit -a -m "Updating presentation materials"

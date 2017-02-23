@@ -20,7 +20,7 @@ So it's a pretty good candidate for an object-oriented approach.
 Goal:
 -----
 
-Refactor the mailroom program usined a couple classes to help organise the code.
+Refactor the mailroom program using classes to help organise the code.
 
 The program
 -----------

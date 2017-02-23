@@ -45,6 +45,7 @@ Exercises
    exercises/list_lab.rst
    exercises/mailroom.rst
    exercises/mailroom-oo.rst
+   exercises/roman.rst
    exercises/rot13.rst
    exercises/slicing.rst
    exercises/sparse_array.rst

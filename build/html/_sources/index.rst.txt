@@ -20,6 +20,7 @@ Modules
    modules/Testing
    modules/AdvancedArgumentPassing
    modules/DictionaryAsSwitch
+   modules/ContextManagers
    modules/ObjectOrientationOverview
    modules/PythonClasses
    modules/SubclassingAndInheritance
@@ -27,10 +28,20 @@ Modules
    modules/Properties
    modules/StaticAndClassMethods
    modules/SpecialMethodsAndProtocols
-   modules/Comprehensions
-   modules/Decorators
-   modules/ContextManagers
 
+   modules/MultipleInheritance.rst
+   modules/Composition.rst
+
+..
+   modules/MapFilterReduce.rst
+   modules/Comprehensions.rst
+   modules/Lambda.rst
+   modules/IteratorsAndGenerators.rst
+   modules/Closures.rst
+   modules/Recursion.rst
+
+   modules/Decorators
+..
 
 Exercises
 ---------

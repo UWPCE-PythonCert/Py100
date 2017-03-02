@@ -140,4 +140,6 @@ https://fuhm.net/super-harmful/
 
 http://rhettinger.wordpress.com/2011/05/26/super-considered-super/
 
-(Both worth reading....)
+https://youtu.be/EiOglTERPEo
+
+Both perspectives worth your consideration.

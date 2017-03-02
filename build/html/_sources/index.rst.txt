@@ -24,6 +24,14 @@ Modules
    modules/PythonClasses
    modules/SubclassingAndInheritance
 
+   modules/Properties
+   modules/StaticAndClassMethods
+   modules/SpecialMethodsAndProtocols
+   modules/Comprehensions
+   modules/Decorators
+   modules/ContextManagers
+
+
 Exercises
 ---------
 

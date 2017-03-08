@@ -116,7 +116,6 @@ Look up the special methods you need and define them.
 There's more to read about the details of implementing these methods:
 
 * https://docs.python.org/3.5/reference/datamodel.html#special-method-names
-* http://www.rafekettler.com/magicmethods.html
 
 Emulating Standard types
 =========================
@@ -240,10 +239,6 @@ You can make your class look like a regular python sequence by defining
 the set of special methods you need:
 
 https://docs.python.org/3/reference/datamodel.html#emulating-container-types
-
-and
-
-http://www.rafekettler.com/magicmethods.html#sequence
 
 The key ones are:
 

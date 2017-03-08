@@ -84,6 +84,7 @@ Homework
    homework/session05
    homework/session06
    homework/session07
+   homework/session09
 
 Supplemental Materials
 ----------------------

@@ -116,7 +116,6 @@ Look up the special methods you need and define them.
 There's more to read about the details of implementing these methods:
 
 * https://docs.python.org/3.5/reference/datamodel.html#special-method-names
-* http://www.rafekettler.com/magicmethods.html
 
 Emulating Standard types
 =========================

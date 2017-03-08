@@ -240,10 +240,6 @@ the set of special methods you need:
 
 https://docs.python.org/3/reference/datamodel.html#emulating-container-types
 
-and
-
-http://www.rafekettler.com/magicmethods.html#sequence
-
 The key ones are:
 
 +-------------------+-----------------------+

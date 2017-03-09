@@ -32,7 +32,6 @@ Modules
    modules/MultipleInheritance.rst
    modules/Composition.rst
 
-..
    modules/MapFilterReduce.rst
    modules/Comprehensions.rst
    modules/Lambda.rst
@@ -41,7 +40,6 @@ Modules
    modules/Recursion.rst
 
    modules/Decorators
-..
 
 Exercises
 ---------

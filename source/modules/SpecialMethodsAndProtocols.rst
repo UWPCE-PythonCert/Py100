@@ -104,7 +104,7 @@ implement ``__add__``:
 
 .. rst-class:: centered
 
-[a more complete example may be seen :download:`here <../../examples/vector.py>`]
+[a more complete example may be seen :download:`here <../examples/vector.py>`]
 
 Protocols in Summary
 --------------------

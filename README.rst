@@ -9,6 +9,6 @@ This repository contains the source materials for the first class in the the Uni
 
 See the Syllabus for more detail.
 
-Class materials are available in html rendered version from here:
+Class materials are available in html rendered version here:
 
 https://uwpce-pythoncert.github.io/Py100/build/html/index.html

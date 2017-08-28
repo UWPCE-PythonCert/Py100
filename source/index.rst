@@ -12,6 +12,7 @@ Modules
 .. toctree::
    :maxdepth: 1
 
+   modules/Tutorial
    modules/PythonOverview
    modules/EnvironmentOverview
    modules/IPythonIntroduction
